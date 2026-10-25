@@ -4,9 +4,11 @@
 
 ## 🎓 What I'm currently learning
 
+
 <a href="https://pypi.org/project/pyspark/" target="_blank"><img src="images/pyspark.png" alt="PySpark" width="150"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://neo4j.com/product/neo4j-graph-database/" target="_blank"><img src="images/Neo4j-logo_color.png" alt="Neo4j" width="150"></a>
+
 
 ## ✨ Check out my latest projects
 
@@ -51,7 +53,8 @@
 ### 🏮 Japankify is live! 
 Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the live [Streamlit demo](https://japankify-demo.streamlit.app/). 
 
-🍅 **Next up:** Engineering an end-to-end MLOps architecture to flag customs fraud and origin laundering in the global tomato paste trade. This features graph-enriched data pipelines with network topology metrics, a SageMaker anomaly detection model with drift monitoring, MLflow parameter tracking, a Power BI dashboard, and a Streamlit inference frontend served via a Flask API... watch this space!
+### 🍅 Next up:
+ Engineering an end-to-end MLOps architecture to flag customs fraud and origin laundering in the global tomato paste trade. This features graph-enriched data pipelines with network topology metrics, a SageMaker anomaly detection model with drift monitoring, MLflow parameter tracking, a Power BI dashboard, and a Streamlit inference frontend served via a Flask API... watch this space!
 
 ## ✨ Find me on
 
@@ -60,3 +63,4 @@ Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the 
 <a href="https://www.kaggle.com/celineboutinon" target="_blank"><img src="images/kaggle-logo-transparent.svg" alt="Kaggle" width="100"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@celine.boutinon" target="_blank"><img src="images/Medium-Icon-Black.svg" alt="Medium" width="50"></a>
+
