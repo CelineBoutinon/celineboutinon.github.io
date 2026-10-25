@@ -1,0 +1,15 @@
+---
+---
+@import "{{ site.theme }}";
+
+.page-header {
+  background-image: url('../../images/my_venn_update_0926.png'), linear-gradient(120deg, #155799, #159957);
+  background-size: contain, cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 18rem 2rem; 
+}
+
+.project-name, .project-tagline {
+  display: none; 
+}

@@ -1,4 +1,3 @@
-![alt README header](images/my_venn_update_0926.png)
  
 ## ⛏️ I transform raw data into actionable business insights 💎
 
