@@ -1,3 +1,7 @@
+---
+title: "✨ Welcome to Celine Boutinon's Portfolio!"
+---
+
 
 ## 🏮 Japankify is live! 
 Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the live [Streamlit demo](https://japankify-demo.streamlit.app/). 
