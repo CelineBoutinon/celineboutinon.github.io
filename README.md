@@ -4,8 +4,9 @@
 
 ## 🎓 What I'm currently learning
 
-[![PySpark](images/pyspark.png)](https://pypi.org/project/pyspark/) 
-[![Neo4j](images/Neo4j-logo_color.png)](https://neo4j.com/product/neo4j-graph-database/)
+<a href="https://pypi.org/project/pyspark/" target="_blank"><img src="images/pyspark.png" alt="PySpark" width="150"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://neo4j.com/product/neo4j-graph-database/" target="_blank"><img src="images/Neo4j-logo_color.png" alt="Neo4j" width="150"></a>
 
 ## ✨ Check out my latest projects
 
@@ -54,6 +55,8 @@ Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the 
 
 ## ✨ Find me on
 
-[![LinkedIn](images/LinkedIn_icon.png)](https://www.linkedin.com/in/celineboutinon/?locale=en_US)
-[![Kaggle](images/kaggle-logo-transparent.svg)](https://www.kaggle.com/celineboutinon)
-[![Medium](images/Medium-Icon-Black.svg)](https://medium.com/@celine.boutinon)
+<a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US" target="_blank"><img src="images/LinkedIn_icon.png" alt="LinkedIn" width="50"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/celineboutinon" target="_blank"><img src="images/kaggle-logo-transparent.svg" alt="Kaggle" width="100"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@celine.boutinon" target="_blank"><img src="images/Medium-Icon-Black.svg" alt="Medium" width="50"></a>
