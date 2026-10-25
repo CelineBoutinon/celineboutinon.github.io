@@ -1,15 +1,7 @@
- 
-## ⛏️ I transform raw data into actionable business insights 💎
 
-## 🎓 What I'm currently learning
+## 🏮 Japankify is live! 
+Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the live [Streamlit demo](https://japankify-demo.streamlit.app/). 
 
-
-<a href="https://pypi.org/project/pyspark/" target="_blank"><img src="images/pyspark.png" alt="PySpark" width="150"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://neo4j.com/product/neo4j-graph-database/" target="_blank"><img src="images/Neo4j-logo_color.png" alt="Neo4j" width="150"></a>
-
-
-## ✨ Check out my latest projects
 
 ### 📌 Market segmentation & customer behaviour
 * Establishing & maintaining a customer segmentation model for online Brazilian marketplace [Olist](https://github.com/CelineBoutinon/client-segmentation)
@@ -49,8 +41,6 @@
 * Building & querying a [restaurant](https://github.com/CelineBoutinon/little-lemon)'s staff & customer database in MySQL with a Python client
 * Using public data to create a nationwide [real-estate database](https://github.com/CelineBoutinon/laplace-immo) with MySQL Workbench
 
-### 🏮 Japankify is live! 
-Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the live [Streamlit demo](https://japankify-demo.streamlit.app/). 
 
 ### 🍅 Next up:
  Engineering an end-to-end MLOps architecture to flag customs fraud and origin laundering in the global tomato paste trade. This features graph-enriched data pipelines with network topology metrics, a SageMaker anomaly detection model with drift monitoring, MLflow parameter tracking, a Power BI dashboard, and a Streamlit inference frontend served via a Flask API... watch this space!
