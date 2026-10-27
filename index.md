@@ -56,4 +56,7 @@ Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the 
 <a href="https://www.kaggle.com/celineboutinon" target="_blank"><img src="images/kaggle-logo-transparent.svg" alt="Kaggle" width="100"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@celine.boutinon" target="_blank"><img src="images/Medium-Icon-Black.svg" alt="Medium" width="50"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://share.streamlit.io/user/celineboutinon" target="_blank">
+    <img src="images\streamlit-mark-color.svg" alt="Medium" width="68" height="68"/>
 
