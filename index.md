@@ -1,5 +1,5 @@
 ---
-title: "✨ Welcome to Celine Boutinon's Portfolio!"
+title: "Celine Boutinon - Data Scientist & Business Analyst"
 ---
 
 
@@ -46,8 +46,8 @@ Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the 
 * Using public data to create a nationwide [real-estate database](https://github.com/CelineBoutinon/laplace-immo) with MySQL Workbench
 
 
-### 🍅 Next up:
- Engineering an end-to-end MLOps architecture to flag customs fraud and origin laundering in the global tomato paste trade. This features graph-enriched data pipelines with network topology metrics, a SageMaker anomaly detection model with drift monitoring, MLflow parameter tracking, a Power BI dashboard, and a Streamlit inference frontend served via a Flask API... watch this space!
+### 🍅 Next up
+ Engineering an end-to-end MLOps architecture to flag customs fraud and origin laundering in the global tomato paste trade. This features graph-enriched data pipelines with network topology metrics, a SageMaker anomaly detection model with drift monitoring, MLflow parameter tracking, a Power BI trade hubs & flows dashboard, and a Streamlit inference frontend served via a Flask API... watch this space!
 
 ## ✨ Find me on
 
