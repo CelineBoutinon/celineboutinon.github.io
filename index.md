@@ -1,9 +1,5 @@
 ---
-title: |
-  Celine Boutinon Data Scientist & Data Engineer |
-  Data Architecture & MLOps |
-  End-to-End Data Solutions From Business Need to Deployment (Python, SQL, AWS, Power BI) |
-  Finance, Maritime & Transport
+title: "Celine Boutinon | Data Scientist & Data Engineer"
 ---
 
 
