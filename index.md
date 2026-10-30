@@ -1,11 +1,32 @@
 ---
-title: "Celine Boutinon - Data Scientist & Business Analyst"
+title: |
+  Celine Boutinon Data Scientist & Data Engineer |
+  Data Architecture & MLOps |
+  End-to-End Data Solutions From Business Need to Deployment (Python, SQL, AWS, Power BI) |
+  Finance, Maritime & Transport
 ---
 
 
 ## 🏮 Japankify is live! 
 Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the live [Streamlit demo](https://japankify-demo.streamlit.app/). 
 
+## 🪄 NEW! The Filigrane Malin demo is available on [Streamlit Community Cloud](https://filigrane-malin-demo.streamlit.app/).
+
+
+### 📌 Data Engineering & Database management
+* Bridging raw SRS logic and actionable analytics in [Japankify](https://github.com/CelineBoutinon/japankify-open), a Japanese vocabulary and kanji learning app powered by a Streamlit UI front-end and a serverless AWS backend
+* Developing a local-first, cost-efficient [email archive & backup](https://github.com/CelineBoutinon/mailbreak) to bypass Yahoo's newly enforced storage caps and efficiently query & retrieve legacy email offline
+* Building & querying a [restaurant](https://github.com/CelineBoutinon/little-lemon)'s staff & customer database in MySQL with a Python client
+* Using public data to create a nationwide [real-estate database](https://github.com/CelineBoutinon/laplace-immo) with MySQL Workbench
+
+### 📌 Data mining & exploratory data analysis
+* Data quality analysis & inventory management for an online [fine wine store](https://github.com/CelineBoutinon/bottleneck)
+* A GDPR-compliant, no-code analysis of [gender equality](https://github.com/CelineBoutinon/lafleche-et-associes) in the workplace with Knime Analytics
+* A worldwide analysis of [food insecurity](https://github.com/CelineBoutinon/la-faim-dans-le-monde) with a focus on the Thai cassava paradox
+
+### 📌 Model serving & CI/CD
+* Predicting the energy consumption & greenhouse gas emissions of non-residential buildings for the [City of Seattle](https://github.com/CelineBoutinon/energy-consumption)
+* Deploying a consumer credit risk assessment & decision [tool](https://github.com/CelineBoutinon/credit-scoring-api) on Streamlit with PyTest, Flask & Render
 
 ### 📌 Market segmentation & customer behaviour
 * Establishing & maintaining a customer segmentation model for online Brazilian marketplace [Olist](https://github.com/CelineBoutinon/client-segmentation)
@@ -21,29 +42,14 @@ Explore the [repo](https://github.com/CelineBoutinon/japankify-open) or try the 
 * A Big Data image classification architecture applied to [fruits recognition](https://github.com/CelineBoutinon/big-data-cloud) with AWS EMR
 * An applied performance [comparison](https://github.com/CelineBoutinon/visual-transformers) of visual transformers with CNN image classifiers
 
-### 📌 Model serving & CI/CD
-* Predicting the energy consumption & greenhouse gas emissions of non-residential buildings for the [City of Seattle](https://github.com/CelineBoutinon/energy-consumption)
-* Deploying a consumer credit risk assessment & decision [tool](https://github.com/CelineBoutinon/credit-scoring-api) on Streamlit with PyTest, Flask & Render
-
-### 📌 Inclusive storytelling
-* Creating a [dashboard](https://github.com/CelineBoutinon/WCAG-accessible-dashboard) for colorblind & visually impaired users with Shap and Streamlit
-* Analysing worldwide access to [drinking water](https://github.com/CelineBoutinon/drinking-water-for-all) with PowerBI
-
-### 📌 Data mining & exploratory data analysis
-* Data quality analysis & inventory management for an online [fine wine store](https://github.com/CelineBoutinon/bottleneck)
-* A GDPR-compliant, no-code analysis of [gender equality](https://github.com/CelineBoutinon/lafleche-et-associes) in the workplace with Knime Analytics
-* A worldwide analysis of [food insecurity](https://github.com/CelineBoutinon/la-faim-dans-le-monde) with a focus on the Thai cassava paradox
-
 ### 📌 Statistical analysis & hypothesis testing
 * Characterizing the behaviour of an [online bookstore](https://github.com/CelineBoutinon/bookworms)'s clients
 * Qualifying [nutrition information](https://github.com/CelineBoutinon/nutrition-information) on food products' labels
 * Ranking the world's leading [education systems](https://github.com/CelineBoutinon/education-statistics)
 
-### 📌 Data Engineering & Database management
-* Bridging raw SRS logic and actionable analytics in [Japankify](https://github.com/CelineBoutinon/japankify-open), a Japanese vocabulary and kanji learning app powered by a Streamlit UI front-end and a serverless AWS backend
-* Developing a local-first, cost-efficient [email archive & backup](https://github.com/CelineBoutinon/mailbreak) to bypass Yahoo's newly enforced storage caps and efficiently query & retrieve legacy email offline
-* Building & querying a [restaurant](https://github.com/CelineBoutinon/little-lemon)'s staff & customer database in MySQL with a Python client
-* Using public data to create a nationwide [real-estate database](https://github.com/CelineBoutinon/laplace-immo) with MySQL Workbench
+### 📌 Inclusive storytelling
+* Creating a [dashboard](https://github.com/CelineBoutinon/WCAG-accessible-dashboard) for colorblind & visually impaired users with Shap and Streamlit
+* Analysing worldwide access to [drinking water](https://github.com/CelineBoutinon/drinking-water-for-all) with PowerBI
 
 
 ### 🍅 Next up
